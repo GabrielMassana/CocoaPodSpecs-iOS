@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name         = "CoreDataManager"
+  s.name         = "OperationQueueManager"
   s.version      = "1.0.0"
   s.summary      = "A library project containing OperationQueue wrapper."
 
