@@ -1,0 +1,2 @@
+# CocoaPodSpecs-iOS
+Private CocoaPodSpecs
