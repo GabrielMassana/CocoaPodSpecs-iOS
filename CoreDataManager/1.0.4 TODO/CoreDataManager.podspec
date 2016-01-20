@@ -12,11 +12,9 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/GabrielMassana/CoreDataManager-iOS.git", :tag => s.version, :branch => "master"}
 
-  s.source_files = "CoreDataManager/**/*.{h,m}"
+  s.source_files  = "CoreDataManager/**/*.{h,m}"
   s.public_header_files = "CoreDataManager/**/*.{h}"
 
   s.requires_arc = true
-  
-  s.frameworks = 'UIKit', 'CoreData'
 
 end
